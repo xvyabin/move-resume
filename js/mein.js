@@ -31,7 +31,7 @@ function writeMarkdown(markdown, fn){
 
 
 var result = `/*
-*面试官你好，我是XYB
+*大家好，我是徐小彬，
 *我将以动画的形式介绍我自己
 
 *只用文字介绍太单调了
@@ -67,7 +67,7 @@ html{
 
 /*加点3D效果*/
 #code{
-	transform: rotate(720deg);
+	transform: rotate(360deg);
 }
 
 /*不玩了，我来介绍一下我自己*/
@@ -103,26 +103,28 @@ var result2 =`
 var md =`
 # 自 我 介 绍
 
-我叫 xxx
-1999年 出生
-xxx学校
-处男
+我叫 徐小彬
+1994年 出生
+华中科技大学 专业：电子工程
+
+英语水平：CET - 4
 
 # 项 目 介 绍
 
-1.xxx 轮播
-2.xxx 简历
+1.AIION 音乐
+2.会动的简历，动漫皮卡丘，
 3.canavs 画板
+4.有赞商城（vue重构）
 
 # 技 能 介 绍
 
-熟悉 JavaScript css html
+熟悉 JavaScript css html veu
 
 # 联 系 方 式
 
-qq 123465
-Email 12345vc1x4
-手机 123456789
+qq 792134478
+Email 250901279@qq.com
+手机 13005754466
 `
 let result3 =`
 /*xiexie*/`
